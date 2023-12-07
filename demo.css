@@ -51,21 +51,30 @@ pre{
           font-size: xx-large;
           
           
+          
 
 
 }
+.btn a{
+          text-decoration: none;
+}
 .icons{
-        margin-top: 40px;
+        /* margin-top: 70px; */
        background-color: blanchedalmond;
        height: 250px;
+       justify-content: center;
+       align-items: center;
+       text-align: center;
        
         
           
 }
 .icons i {
- margin: 30px;
+ margin: 20px;
  font-size: xxx-large;
- width: 100px;
+ width: 90px;
+ margin-top: 60px;
+ 
 
 }
 .icons p{
